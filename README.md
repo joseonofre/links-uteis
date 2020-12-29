@@ -147,8 +147,8 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 ## Servidores
 |  | |
 |--|--|
-| Deploy simplificado e gratuíto |[vercel](https://vercel.com/) |
-| Servidor barato e brasileiro para api com banco de dados  ⭐|[umbler](https://umbler.com/) |
+| Front-end -- Deploy simplificado e gratuíto |[vercel](https://vercel.com/) |
+| Api e Banco de dados -- Servidor barato e brasileiro |[umbler](https://umbler.com/) |
 
 
 
