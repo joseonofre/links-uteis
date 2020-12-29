@@ -144,7 +144,11 @@ Links de ferramentas e conteúdos úteis para desenvolvedores.
 | Utilitarios de cores  ⭐|[colorsinspo](https://colorsinspo.com/color-tools/games/guess-the-next-color) |
 
 
-
+## Servidores
+|  | |
+|--|--|
+| Deploy simplificado e gratuíto |[vercel](https://vercel.com/) |
+| Servidor barato e brasileiro para api com banco de dados  ⭐|[umbler](https://umbler.com/) |
 
 
 
